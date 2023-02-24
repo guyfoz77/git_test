@@ -1,3 +1,3 @@
 # git_test
-Frist github repo
+First github repo
 Hello Odin!
